@@ -97,6 +97,7 @@ Collate:
     'provider-claude-files.R'
     'provider-claude-tools.R'
     'provider-claude.R'
+    'provider-kimi-code.R'
     'provider-google.R'
     'provider-cloudflare.R'
     'provider-databricks.R'
